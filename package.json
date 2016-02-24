@@ -1,0 +1,10 @@
+{
+	"name": "MobileShop",
+	"version": "0.0.1",
+	
+	"devDependencies": 
+	{
+    	"express"     : "",
+    	"body-parser" : ""
+	}
+}
